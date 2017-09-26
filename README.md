@@ -16,7 +16,7 @@
 2. Local files
 3. Browse local files
 4. Go to `csgo/cfg`
-5. Copy nj_main.cfg on your local nj_main.cfg and save.
+5. Copy `nj_main.cfg` on your local `nj_main.cfg` and save
 6. Right click CSGO/properties
 7. Click Set launch options
 8. Paste Setting for launch option that will fit your monitor
